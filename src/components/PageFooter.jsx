@@ -6,14 +6,6 @@ function PageFooter(props) {
             <p className="links">
                 <span className="linkItem">友情链接：</span>
                 <a
-                    href="https://duyi.ke.qq.com/"
-                    target="_blank"
-                    rel="noreferrer"
-                    className="linkItem"
-                >
-                    渡一教育-腾讯课堂
-                </a>
-                <a
                     href="http://www.yuanjin.tech/"
                     target="_blank"
                     rel="noreferrer"
